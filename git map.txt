@@ -1,0 +1,75 @@
+C:\Users\Mesquita\Desktop\git
+airgap-distro
+aragon-court
+assets (Trust Wallet)
+- CryptoWallet
+ | Argent
+  | Tasit
+   | contract-based-account-tracker
+   | privacy
+   | readme
+   | tasit
+   | tasit-sdk
+   | tools-we-like
+  | Wallet
+   | application
+   | argent-connect
+   | argent-contracts
+   | argent-js
+   | emojihash
+   | emoji-hash
+   | hopper
+   | hopper-website
+   | hunt
+ | Authereum
+  | authereum.github.io
+  | authereum.readthedocs.io
+  | contracts
+  | is-valid-signature
+  | signature-based-authentication-example
+  | uniswap.demo.authereum.org
+ | InstaDApp
+  | all-things-instadapp
+  | blockchain-security-contacts
+  | brand
+  | dsa-contracts
+  | dsa-ecosystem
+  | dsa-sdk
+  | InstaContract
+  | InstaDApp-Dashboard
+  | SaiPool
+  | smart-contract
+ | use-dai
+cyano
+ethereum_token_tutorial
+ethereum-badge
+git-remote-ipfs
+securify2
+solidity (PersonalTokens)
+tbtc-dapp (model for nodegyp diff between windows/linux)
+uniswap-frontend (model for nodegyp diff between windows/linux)
+uniswap-social-money
+- Viewly
+ | clappr-playback-rate-plugin
+ | clappr-playback-speed
+ | distribution-game
+ | docker-images
+ | Invidious-Updater
+ | main-tokensale-contracts
+ | platform-contracts
+ | player
+ | seed-tokensale-contracts
+ | token-contracts
+ | Vidflow
+- WalletConnect
+ | 
+watch-token
+- ZeroNetPlus
+ | BeepBox
+ | Emojis
+ | Gitcratic
+ | Peeper
+ | Stickers
+ | YouMedia
+ | ZeroNetPlus
+ | ZeroNetPlus.github.io
