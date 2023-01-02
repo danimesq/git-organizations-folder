@@ -1,0 +1,2446 @@
+This folder: /media/daniell/B/git/BitBucket
+
+  File: ./.file-timestamps
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 844h/2116d	Inode: 969824      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-11-14 16:40:11.092417700 -0300
+Modify: 2022-11-14 16:40:11.092417700 -0300
+Change: 2022-11-14 16:40:11.092417700 -0300
+ Birth: -  File: ./.file-timestamps1
+  Size: 190353    	Blocks: 376        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 955340      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-11-14 16:38:40.944279100 -0300
+Modify: 2022-11-14 16:38:41.033854000 -0300
+Change: 2022-11-14 16:40:05.964265400 -0300
+ Birth: -  File: ./ps-brasil/.git/config
+  Size: 330       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285781     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.249896400 -0300
+Modify: 2020-12-30 22:28:51.007081400 -0300
+Change: 2020-12-30 22:28:51.008081000 -0300
+ Birth: -  File: ./ps-brasil/.git/description
+  Size: 73        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285782     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:51.446479400 -0300
+Modify: 2020-12-30 22:28:46.838275200 -0300
+Change: 2020-12-30 22:28:46.838275200 -0300
+ Birth: -  File: ./ps-brasil/.git/HEAD
+  Size: 23        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285783     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.233843400 -0300
+Modify: 2020-12-30 22:28:50.994790400 -0300
+Change: 2020-12-30 22:28:50.994790400 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285787     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:51.883967700 -0300
+Modify: 2020-12-30 22:28:46.838275200 -0300
+Change: 2020-12-30 22:28:46.838275200 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285788     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.071463500 -0300
+Modify: 2020-12-30 22:28:46.838275200 -0300
+Change: 2020-12-30 22:28:46.838275200 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/fsmonitor-watchman.sample
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285789     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.087088700 -0300
+Modify: 2020-12-30 22:28:46.838275200 -0300
+Change: 2020-12-30 22:28:46.838275200 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/post-update.sample
+  Size: 189       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285790     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.118338100 -0300
+Modify: 2020-12-30 22:28:46.838275200 -0300
+Change: 2020-12-30 22:28:46.838275200 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285791     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.290209400 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285792     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.462082100 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285793     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.462082100 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-push.sample
+  Size: 1374      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285794     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.555827400 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-rebase.sample
+  Size: 4898      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285795     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.571452600 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285796     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.587076000 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285797     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.696449100 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/hooks/update.sample
+  Size: 3650      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285798     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:52.727698600 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/index
+  Size: 20856     	Blocks: 48         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 4059770     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.227823300 -0300
+Modify: 2022-02-22 22:15:18.118417900 -0300
+Change: 2022-02-22 22:15:18.118817800 -0300
+ Birth: -  File: ./ps-brasil/.git/info/exclude
+  Size: 240       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285800     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:41.092458400 -0300
+Modify: 2020-12-30 22:28:46.853901600 -0300
+Change: 2020-12-30 22:28:46.853901600 -0300
+ Birth: -  File: ./ps-brasil/.git/logs/HEAD
+  Size: 213       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285802     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:53.196436300 -0300
+Modify: 2020-12-30 22:28:51.001080300 -0300
+Change: 2020-12-30 22:28:51.001080300 -0300
+ Birth: -  File: ./ps-brasil/.git/logs/refs/heads/master
+  Size: 213       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285805     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:53.368308000 -0300
+Modify: 2020-12-30 22:28:51.003080700 -0300
+Change: 2020-12-30 22:28:51.003080700 -0300
+ Birth: -  File: ./ps-brasil/.git/logs/refs/remotes/origin/HEAD
+  Size: 213       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285808     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2020-12-31 02:58:53.571427700 -0300
+Modify: 2020-12-30 22:28:50.990790200 -0300
+Change: 2020-12-30 22:28:50.990790200 -0300
+ Birth: -  File: ./ps-brasil/.git/objects/pack/pack-85911d2137cf38869b751974209fc210ae6ad927.idx
+  Size: 6588      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285812     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.309093000 -0300
+Modify: 2020-12-30 22:28:50.937040900 -0300
+Change: 2020-12-30 22:28:50.943042800 -0300
+ Birth: -  File: ./ps-brasil/.git/objects/pack/pack-85911d2137cf38869b751974209fc210ae6ad927.pack
+  Size: 505996    	Blocks: 992        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285813     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.386349100 -0300
+Modify: 2020-12-30 22:28:50.937040900 -0300
+Change: 2020-12-30 22:28:50.942043300 -0300
+ Birth: -  File: ./ps-brasil/.git/packed-refs
+  Size: 114       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285785     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.889274000 -0300
+Modify: 2020-12-30 22:28:50.980511500 -0300
+Change: 2020-12-30 22:28:50.981512900 -0300
+ Birth: -  File: ./ps-brasil/.git/refs/heads/master
+  Size: 41        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285816     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 18:37:50.247891500 -0300
+Modify: 2020-12-30 22:28:51.000080700 -0300
+Change: 2020-12-30 22:28:51.004080800 -0300
+ Birth: -  File: ./ps-brasil/.git/refs/remotes/origin/HEAD
+  Size: 32        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285819     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:31.261345200 -0300
+Modify: 2020-12-30 22:28:50.991792200 -0300
+Change: 2020-12-30 22:28:50.992794400 -0300
+ Birth: -  File: ./ps-brasil/.git/tortoisegit.data
+  Size: 4090      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 2424829     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:47:18.912405800 -0300
+Modify: 2021-07-02 19:47:18.677960200 -0300
+Change: 2021-07-02 19:47:18.677960200 -0300
+ Birth: -  File: ./ps-brasil/.git/tortoisegit.index
+  Size: 40        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 957741      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:47:18.912405800 -0300
+Modify: 2021-07-02 19:47:18.677960200 -0300
+Change: 2021-07-02 19:47:18.677960200 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/loginserver.js
+  Size: 7692      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285840     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.393983400 -0300
+Modify: 2020-12-30 22:28:51.037969100 -0300
+Change: 2020-12-30 22:28:51.037969100 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/.gitignore
+  Size: 612       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285822     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.020145500 -0300
+Change: 2020-12-30 22:28:51.020145500 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/.travis.yml
+  Size: 116       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285823     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.021144900 -0300
+Change: 2020-12-30 22:28:51.021144900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/app.js
+  Size: 7926      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285824     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.690645700 -0300
+Modify: 2020-12-30 22:28:51.025144700 -0300
+Change: 2020-12-30 22:28:51.025144700 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/battle-engine.js
+  Size: 161803    	Blocks: 320        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285825     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.753164300 -0300
+Modify: 2020-12-30 22:28:51.026146900 -0300
+Change: 2020-12-30 22:28:51.026146900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/bot.js
+  Size: 36734     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285826     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.815688400 -0300
+Modify: 2020-12-30 22:28:51.028207900 -0300
+Change: 2020-12-30 22:28:51.028207900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/cidr.js
+  Size: 1575      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285827     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.862577500 -0300
+Modify: 2020-12-30 22:28:51.028207900 -0300
+Change: 2020-12-30 22:28:51.028207900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/clans.js
+  Size: 24753     	Blocks: 56         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285828     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.940722500 -0300
+Modify: 2020-12-30 22:28:51.029206500 -0300
+Change: 2020-12-30 22:28:51.029206500 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/command-parser.js
+  Size: 20743     	Blocks: 48         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285829     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.971969700 -0300
+Modify: 2020-12-30 22:28:51.030206300 -0300
+Change: 2020-12-30 22:28:51.030206300 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/commands.js
+  Size: 109537    	Blocks: 216        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285830     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.034503100 -0300
+Modify: 2020-12-30 22:28:51.032198300 -0300
+Change: 2020-12-30 22:28:51.032198300 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/crashlogger.js
+  Size: 1644      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285831     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.065763100 -0300
+Modify: 2020-12-30 22:28:51.032198300 -0300
+Change: 2020-12-30 22:28:51.032198300 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/dnsbl.js
+  Size: 6650      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285832     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.128278400 -0300
+Modify: 2020-12-30 22:28:51.033197100 -0300
+Change: 2020-12-30 22:28:51.033197100 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/elo.js
+  Size: 590       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285833     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.143897200 -0300
+Modify: 2020-12-30 22:28:51.034196800 -0300
+Change: 2020-12-30 22:28:51.034196800 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/fake-process.js
+  Size: 773       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285834     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.175172900 -0300
+Modify: 2020-12-30 22:28:51.034970700 -0300
+Change: 2020-12-30 22:28:51.034970700 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/gulpfile.js
+  Size: 6878      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285835     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.206437900 -0300
+Modify: 2020-12-30 22:28:51.034970700 -0300
+Change: 2020-12-30 22:28:51.034970700 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/ladders-remote.js
+  Size: 3410      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285836     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.268946700 -0300
+Modify: 2020-12-30 22:28:51.035969600 -0300
+Change: 2020-12-30 22:28:51.035969600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/ladders.js
+  Size: 8595      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285837     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.300194000 -0300
+Modify: 2020-12-30 22:28:51.036969000 -0300
+Change: 2020-12-30 22:28:51.036969000 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/league.js
+  Size: 11431     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285838     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.331454500 -0300
+Modify: 2020-12-30 22:28:51.037969100 -0300
+Change: 2020-12-30 22:28:51.037969100 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/LICENSE
+  Size: 1134      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285839     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.021144900 -0300
+Change: 2020-12-30 22:28:51.021144900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/monitor.js
+  Size: 6911      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285841     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.425232000 -0300
+Modify: 2020-12-30 22:28:51.038975000 -0300
+Change: 2020-12-30 22:28:51.038975000 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/old-simulator-doc.txt
+  Size: 12135     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285842     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.440871300 -0300
+Modify: 2020-12-30 22:28:51.039973500 -0300
+Change: 2020-12-30 22:28:51.039973500 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/package.json
+  Size: 1474      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285843     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.040972800 -0300
+Change: 2020-12-30 22:28:51.040972800 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/Procfile
+  Size: 22        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285844     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.023145700 -0300
+Change: 2020-12-30 22:28:51.023145700 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/PROTOCOL.md
+  Size: 21821     	Blocks: 48         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285845     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.022146900 -0300
+Change: 2020-12-30 22:28:51.022146900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/README.md
+  Size: 7161      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285846     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.024144800 -0300
+Change: 2020-12-30 22:28:51.024144800 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/repl.js
+  Size: 2276      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285847     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.597159400 -0300
+Modify: 2020-12-30 22:28:51.040972800 -0300
+Change: 2020-12-30 22:28:51.040972800 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/rooms.js
+  Size: 57921     	Blocks: 120        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285848     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.690948200 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/shop.js
+  Size: 7725      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285849     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.722208600 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2021-07-02 19:46:07.410346900 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/simulator-doc.txt
+  Size: 4340      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285850     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.753467600 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/simulator.js
+  Size: 9698      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285851     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.784731800 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/sockets.js
+  Size: 13737     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285852     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.862875500 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/team-validator.js
+  Size: 35493     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285853     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.894139300 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/teamtour.js
+  Size: 39812     	Blocks: 80         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285854     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.925397500 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/tools.js
+  Size: 34514     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285855     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:54.956642900 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/tour.js
+  Size: 49057     	Blocks: 96         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285856     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:55.050433900 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/users.js
+  Size: 56146     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285857     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:55.112953000 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/verifier.js
+  Size: 1837      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285858     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:55.128590800 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Hispano-Pokemon-Showdown/war.js
+  Size: 41390     	Blocks: 88         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285859     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:55.175459800 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/.gitignore
+  Size: 1460      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285861     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:41.092458400 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/.travis.yml
+  Size: 116       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285862     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/command-parser.js
+  Size: 11294     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285863     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.485643900 -0300
+Modify: 2020-12-30 22:28:51.057950100 -0300
+Change: 2020-12-30 22:28:51.057950100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/base-admin.js
+  Size: 6983      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285877     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.924790000 -0300
+Modify: 2020-12-30 22:28:51.062095500 -0300
+Change: 2020-12-30 22:28:51.062095500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/base-basic.js
+  Size: 3441      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285878     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.940423700 -0300
+Modify: 2020-12-30 22:28:51.062095500 -0300
+Change: 2020-12-30 22:28:51.062095500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/base-dev.js
+  Size: 8920      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285879     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.987296600 -0300
+Modify: 2020-12-30 22:28:51.063095200 -0300
+Change: 2020-12-30 22:28:51.063095200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/base-dyn.js
+  Size: 5116      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285880     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.065458100 -0300
+Modify: 2020-12-30 22:28:51.064095600 -0300
+Change: 2020-12-30 22:28:51.064095600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/chatplugins-misc.js
+  Size: 1972      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285881     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.081087900 -0300
+Modify: 2020-12-30 22:28:51.065276600 -0300
+Change: 2020-12-30 22:28:51.065276600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/chatplugins-pokemon.js
+  Size: 17702     	Blocks: 40         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285882     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.143593800 -0300
+Modify: 2020-12-30 22:28:51.066131400 -0300
+Change: 2020-12-30 22:28:51.066131400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/chatplugins-quotes.js
+  Size: 5598      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285883     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.159224400 -0300
+Modify: 2020-12-30 22:28:51.066131400 -0300
+Change: 2020-12-30 22:28:51.066131400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-autoinvite.js
+  Size: 1707      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285884     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.237384400 -0300
+Modify: 2020-12-30 22:28:51.067131300 -0300
+Change: 2020-12-30 22:28:51.067131300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-battle.js
+  Size: 15410     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285885     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.268643000 -0300
+Modify: 2020-12-30 22:28:51.068969000 -0300
+Change: 2020-12-30 22:28:51.068969000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-games.js
+  Size: 3425      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285886     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.284262500 -0300
+Modify: 2020-12-30 22:28:51.068969000 -0300
+Change: 2020-12-30 22:28:51.068969000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-groupchats.js
+  Size: 5329      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285887     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.299891100 -0300
+Modify: 2020-12-30 22:28:51.069968300 -0300
+Change: 2020-12-30 22:28:51.069968300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-moderation.js
+  Size: 32431     	Blocks: 64         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285888     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.393684400 -0300
+Modify: 2020-12-30 22:28:51.070967800 -0300
+Change: 2020-12-30 22:28:51.070967800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-tournaments.js
+  Size: 9384      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285889     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.503200500 -0300
+Modify: 2020-12-30 22:28:51.072269900 -0300
+Change: 2020-12-30 22:28:51.072269900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/features-youtube.js
+  Size: 1296      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285890     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:53.534337700 -0300
+Modify: 2020-12-30 22:28:51.072269900 -0300
+Change: 2020-12-30 22:28:51.072269900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/commands/README.md
+  Size: 11793     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285891     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.059894700 -0300
+Change: 2020-12-30 22:28:51.059894700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/config-example.js
+  Size: 7025      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285864     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.626310400 -0300
+Modify: 2020-12-30 22:28:51.073268700 -0300
+Change: 2020-12-30 22:28:51.073268700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/CONFIGGUIDE.md
+  Size: 9418      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285865     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data/games-words-example.js
+  Size: 351       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285893     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.721591700 -0300
+Modify: 2020-12-30 22:28:51.076271300 -0300
+Change: 2020-12-30 22:28:51.076271300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data/kunc-sets-example.js
+  Size: 68524     	Blocks: 136        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285894     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.784110000 -0300
+Modify: 2020-12-30 22:28:51.077270200 -0300
+Change: 2020-12-30 22:28:51.077270200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data/README.md
+  Size: 117       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285895     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.075268700 -0300
+Change: 2020-12-30 22:28:51.075268700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data/trivia-data-example.js
+  Size: 14293     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285896     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.846629400 -0300
+Modify: 2020-12-30 22:28:51.078417000 -0300
+Change: 2020-12-30 22:28:51.078417000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data/typechart.js
+  Size: 6786      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285897     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.877888800 -0300
+Modify: 2020-12-30 22:28:51.078417000 -0300
+Change: 2020-12-30 22:28:51.078417000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/data-downloader.js
+  Size: 3888      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285866     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.735709300 -0300
+Modify: 2020-12-30 22:28:51.074268900 -0300
+Change: 2020-12-30 22:28:51.074268900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/DEVELOPMENT.md
+  Size: 4875      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285867     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/autoinvite/index.js
+  Size: 4735      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285901     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.674713900 -0300
+Modify: 2020-12-30 22:28:51.082173000 -0300
+Change: 2020-12-30 22:28:51.082173000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/autoinvite/README.md
+  Size: 892       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285902     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.081173200 -0300
+Change: 2020-12-30 22:28:51.081173200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/1v1-offense.js
+  Size: 13372     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285904     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.252712000 -0300
+Modify: 2020-12-30 22:28:51.083707400 -0300
+Change: 2020-12-30 22:28:51.083707400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/battle-bot.js
+  Size: 36631     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285905     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.299590300 -0300
+Modify: 2020-12-30 22:28:51.085707900 -0300
+Change: 2020-12-30 22:28:51.085707900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/challenges.js
+  Size: 1626      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285906     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.330870000 -0300
+Modify: 2020-12-30 22:28:51.085707900 -0300
+Change: 2020-12-30 22:28:51.085707900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/gen6-singles-default.js
+  Size: 30888     	Blocks: 64         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285907     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.377749400 -0300
+Modify: 2020-12-30 22:28:51.087304900 -0300
+Change: 2020-12-30 22:28:51.087304900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/index.js
+  Size: 1558      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285908     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.471517900 -0300
+Modify: 2020-12-30 22:28:51.087304900 -0300
+Change: 2020-12-30 22:28:51.087304900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/ladder.js
+  Size: 1830      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285909     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.487146000 -0300
+Modify: 2020-12-30 22:28:51.088303500 -0300
+Change: 2020-12-30 22:28:51.088303500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/oldgen-singles-default.js
+  Size: 38451     	Blocks: 80         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285910     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.534048000 -0300
+Modify: 2020-12-30 22:28:51.089303300 -0300
+Change: 2020-12-30 22:28:51.089303300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/README.md
+  Size: 7379      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285911     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.084706900 -0300
+Change: 2020-12-30 22:28:51.084706900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/teambuilder.js
+  Size: 3517      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285912     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.596574500 -0300
+Modify: 2020-12-30 22:28:51.091029400 -0300
+Change: 2020-12-30 22:28:51.091029400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/teams.js
+  Size: 85        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285913     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.612192300 -0300
+Modify: 2020-12-30 22:28:51.091029400 -0300
+Change: 2020-12-30 22:28:51.091029400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/battle/tournaments.js
+  Size: 2029      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285914     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.643444000 -0300
+Modify: 2020-12-30 22:28:51.092028400 -0300
+Change: 2020-12-30 22:28:51.092028400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/chatlogger/favicon.ico
+  Size: 169391    	Blocks: 336        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285916     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.971375600 -0300
+Modify: 2020-12-30 22:28:51.095253700 -0300
+Change: 2020-12-30 22:28:51.095253700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/chatlogger/index.js
+  Size: 1190      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285917     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.002638700 -0300
+Modify: 2020-12-30 22:28:51.096253000 -0300
+Change: 2020-12-30 22:28:51.096253000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/chatlogger/log-server.js
+  Size: 10463     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285918     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.049526100 -0300
+Modify: 2020-12-30 22:28:51.097253500 -0300
+Change: 2020-12-30 22:28:51.097253500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/chatlogger/log.js
+  Size: 2754      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285919     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:52.143292900 -0300
+Modify: 2020-12-30 22:28:51.097954200 -0300
+Change: 2020-12-30 22:28:51.097954200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/chatlogger/README.md
+  Size: 1431      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285920     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.094254000 -0300
+Change: 2020-12-30 22:28:51.094254000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/ambush.js
+  Size: 2960      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285922     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.393064300 -0300
+Modify: 2020-12-30 22:28:51.099952500 -0300
+Change: 2020-12-30 22:28:51.099952500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/anagrams.js
+  Size: 4926      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285923     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.408693900 -0300
+Modify: 2020-12-30 22:28:51.100952500 -0300
+Change: 2020-12-30 22:28:51.100952500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/blackjack.js
+  Size: 7111      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285924     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.486843300 -0300
+Modify: 2020-12-30 22:28:51.100952500 -0300
+Change: 2020-12-30 22:28:51.100952500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/constructors.js
+  Size: 25173     	Blocks: 56         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285925     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.533731700 -0300
+Modify: 2020-12-30 22:28:51.101954200 -0300
+Change: 2020-12-30 22:28:51.101954200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/hangman.js
+  Size: 3014      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285926     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.564991700 -0300
+Modify: 2020-12-30 22:28:51.102952800 -0300
+Change: 2020-12-30 22:28:51.102952800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/index.js
+  Size: 4355      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285927     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.580642100 -0300
+Modify: 2020-12-30 22:28:51.103953000 -0300
+Change: 2020-12-30 22:28:51.103953000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/kunc-rand.js
+  Size: 961       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285928     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.658769800 -0300
+Modify: 2020-12-30 22:28:51.103953000 -0300
+Change: 2020-12-30 22:28:51.103953000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/kunc.js
+  Size: 5240      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285929     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.674408100 -0300
+Modify: 2020-12-30 22:28:51.104952900 -0300
+Change: 2020-12-30 22:28:51.104952900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/passthebomb.js
+  Size: 3158      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285930     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.705659600 -0300
+Modify: 2020-12-30 22:28:51.105953800 -0300
+Change: 2020-12-30 22:28:51.105953800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/poke-anagrams.js
+  Size: 5548      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285931     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.736918600 -0300
+Modify: 2020-12-30 22:28:51.107407000 -0300
+Change: 2020-12-30 22:28:51.107407000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/poke-hangman.js
+  Size: 3917      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285932     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.799437700 -0300
+Modify: 2020-12-30 22:28:51.107407000 -0300
+Change: 2020-12-30 22:28:51.107407000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/pokerand.js
+  Size: 4709      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285933     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.815067500 -0300
+Modify: 2020-12-30 22:28:51.108404800 -0300
+Change: 2020-12-30 22:28:51.108404800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/README.md
+  Size: 1941      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285934     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.098952900 -0300
+Change: 2020-12-30 22:28:51.098952900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/trivia-rand.js
+  Size: 984       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285935     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.861967700 -0300
+Modify: 2020-12-30 22:28:51.109406600 -0300
+Change: 2020-12-30 22:28:51.109406600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/trivia.js
+  Size: 5005      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285936     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.893215700 -0300
+Modify: 2020-12-30 22:28:51.111012700 -0300
+Change: 2020-12-30 22:28:51.111012700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/games/wordrand.js
+  Size: 1180      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285937     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.908855900 -0300
+Modify: 2020-12-30 22:28:51.111012700 -0300
+Change: 2020-12-30 22:28:51.111012700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/github/index.js
+  Size: 3566      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285939     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.330545800 -0300
+Modify: 2020-12-30 22:28:51.113746400 -0300
+Change: 2020-12-30 22:28:51.113746400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/github/README.md
+  Size: 1376      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285940     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.112012600 -0300
+Change: 2020-12-30 22:28:51.112012600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/groupchats/index.js
+  Size: 2512      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285942     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.268031300 -0300
+Modify: 2020-12-30 22:28:51.115544100 -0300
+Change: 2020-12-30 22:28:51.115544100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/groupchats/README.md
+  Size: 1181      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285943     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.114545200 -0300
+Change: 2020-12-30 22:28:51.114545200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/moderation/index.js
+  Size: 17442     	Blocks: 40         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285945     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.205508400 -0300
+Modify: 2020-12-30 22:28:51.119058900 -0300
+Change: 2020-12-30 22:28:51.119058900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/moderation/README.md
+  Size: 3935      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285946     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.118059300 -0300
+Change: 2020-12-30 22:28:51.118059300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/README.md
+  Size: 178       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285899     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.080414700 -0300
+Change: 2020-12-30 22:28:51.080414700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/tournaments/index.js
+  Size: 4011      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285948     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.111730300 -0300
+Modify: 2020-12-30 22:28:51.122360100 -0300
+Change: 2020-12-30 22:28:51.122360100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/tournaments/leaderboards.js
+  Size: 8254      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285949     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.158619200 -0300
+Modify: 2020-12-30 22:28:51.122360100 -0300
+Change: 2020-12-30 22:28:51.122360100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/tournaments/README.md
+  Size: 778       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285950     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.121362200 -0300
+Change: 2020-12-30 22:28:51.121362200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/youtube/index.js
+  Size: 2903      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285952     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:51.049222200 -0300
+Modify: 2020-12-30 22:28:51.125241000 -0300
+Change: 2020-12-30 22:28:51.125241000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/features/youtube/README.md
+  Size: 548       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285953     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.124238700 -0300
+Change: 2020-12-30 22:28:51.124238700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/getserver.js
+  Size: 3975      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285868     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.876386700 -0300
+Modify: 2020-12-30 22:28:51.125241000 -0300
+Change: 2020-12-30 22:28:51.125241000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/gulpfile.js
+  Size: 3255      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285869     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.907635100 -0300
+Modify: 2020-12-30 22:28:51.126241800 -0300
+Change: 2020-12-30 22:28:51.126241800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/index.js
+  Size: 15394     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285870     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:47.954536900 -0300
+Modify: 2020-12-30 22:28:51.127241800 -0300
+Change: 2020-12-30 22:28:51.127241800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/base.js
+  Size: 2908      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285957     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.330711200 -0300
+Modify: 2020-12-30 22:28:51.130726000 -0300
+Change: 2020-12-30 22:28:51.130726000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/chat-plugins.js
+  Size: 3731      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285958     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.361502400 -0300
+Modify: 2020-12-30 22:28:51.131723800 -0300
+Change: 2020-12-30 22:28:51.131723800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/english-pokemon-trans.js
+  Size: 55345     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285959     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.486900200 -0300
+Modify: 2020-12-30 22:28:51.132724100 -0300
+Change: 2020-12-30 22:28:51.132724100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-battle.js
+  Size: 3042      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285960     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.580330100 -0300
+Modify: 2020-12-30 22:28:51.132724100 -0300
+Change: 2020-12-30 22:28:51.132724100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-games.js
+  Size: 7294      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285961     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.611577800 -0300
+Modify: 2020-12-30 22:28:51.133724700 -0300
+Change: 2020-12-30 22:28:51.133724700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-groupchats.js
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285962     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.643238200 -0300
+Modify: 2020-12-30 22:28:51.134724000 -0300
+Change: 2020-12-30 22:28:51.134724000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-moderation.js
+  Size: 7349      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285963     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.658479100 -0300
+Modify: 2020-12-30 22:28:51.135724000 -0300
+Change: 2020-12-30 22:28:51.135724000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-tournaments.js
+  Size: 1744      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285964     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.752266600 -0300
+Modify: 2020-12-30 22:28:51.136725700 -0300
+Change: 2020-12-30 22:28:51.136725700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/english/feature-youtube.js
+  Size: 508       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285965     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.752266600 -0300
+Modify: 2020-12-30 22:28:51.137725200 -0300
+Change: 2020-12-30 22:28:51.137725200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/base.js
+  Size: 3308      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285967     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.939499800 -0300
+Modify: 2020-12-30 22:28:51.139727500 -0300
+Change: 2020-12-30 22:28:51.139727500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/chat-plugins.js
+  Size: 4298      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285968     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.017648300 -0300
+Modify: 2020-12-30 22:28:51.140727100 -0300
+Change: 2020-12-30 22:28:51.140727100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-battle.js
+  Size: 3569      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285969     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.048919300 -0300
+Modify: 2020-12-30 22:28:51.141727600 -0300
+Change: 2020-12-30 22:28:51.141727600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-games.js
+  Size: 7879      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285970     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.080188100 -0300
+Modify: 2020-12-30 22:28:51.142726800 -0300
+Change: 2020-12-30 22:28:51.142726800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-groupchats.js
+  Size: 1079      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285971     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.127056200 -0300
+Modify: 2020-12-30 22:28:51.144727500 -0300
+Change: 2020-12-30 22:28:51.144727500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-moderation.js
+  Size: 8587      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285972     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.205218400 -0300
+Modify: 2020-12-30 22:28:51.145729500 -0300
+Change: 2020-12-30 22:28:51.145729500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-tournaments.js
+  Size: 1967      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285973     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.236476400 -0300
+Modify: 2020-12-30 22:28:51.147725300 -0300
+Change: 2020-12-30 22:28:51.147725300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/feature-youtube.js
+  Size: 607       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285974     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.252094500 -0300
+Modify: 2020-12-30 22:28:51.147725300 -0300
+Change: 2020-12-30 22:28:51.147725300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/french/french-pokemon-trans.js
+  Size: 56746     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285975     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:50.283372600 -0300
+Modify: 2020-12-30 22:28:51.149726300 -0300
+Change: 2020-12-30 22:28:51.149726300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/base.js
+  Size: 3148      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285977     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.533138400 -0300
+Modify: 2020-12-30 22:28:51.150725800 -0300
+Change: 2020-12-30 22:28:51.150725800 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/chat-plugins.js
+  Size: 4341      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285978     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.580031400 -0300
+Modify: 2020-12-30 22:28:51.151725600 -0300
+Change: 2020-12-30 22:28:51.151725600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-battle.js
+  Size: 3646      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285979     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.611276600 -0300
+Modify: 2020-12-30 22:28:51.152725700 -0300
+Change: 2020-12-30 22:28:51.152725700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-games.js
+  Size: 7951      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285980     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.751954100 -0300
+Modify: 2020-12-30 22:28:51.153726100 -0300
+Change: 2020-12-30 22:28:51.153726100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-groupchats.js
+  Size: 1046      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285981     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.783202500 -0300
+Modify: 2020-12-30 22:28:51.154726200 -0300
+Change: 2020-12-30 22:28:51.154726200 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-moderation.js
+  Size: 8261      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285982     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.830108000 -0300
+Modify: 2020-12-30 22:28:51.155726100 -0300
+Change: 2020-12-30 22:28:51.155726100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-tournaments.js
+  Size: 1971      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285983     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.861363900 -0300
+Modify: 2020-12-30 22:28:51.155726100 -0300
+Change: 2020-12-30 22:28:51.155726100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/feature-youtube.js
+  Size: 551       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285984     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.876993900 -0300
+Modify: 2020-12-30 22:28:51.156726700 -0300
+Change: 2020-12-30 22:28:51.156726700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/german/german-pokemon-trans.js
+  Size: 56245     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285985     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.892610000 -0300
+Modify: 2020-12-30 22:28:51.158726900 -0300
+Change: 2020-12-30 22:28:51.158726900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/base.js
+  Size: 2912      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285987     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.064245900 -0300
+Modify: 2020-12-30 22:28:51.159728900 -0300
+Change: 2020-12-30 22:28:51.159728900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/chat-plugins.js
+  Size: 4034      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285988     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.142398000 -0300
+Modify: 2020-12-30 22:28:51.161728700 -0300
+Change: 2020-12-30 22:28:51.161728700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-battle.js
+  Size: 3105      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285989     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.173656300 -0300
+Modify: 2020-12-30 22:28:51.163616700 -0300
+Change: 2020-12-30 22:28:51.163616700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-games.js
+  Size: 7937      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285990     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.204915600 -0300
+Modify: 2020-12-30 22:28:51.164616700 -0300
+Change: 2020-12-30 22:28:51.164616700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-groupchats.js
+  Size: 1018      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285991     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.236161800 -0300
+Modify: 2020-12-30 22:28:51.164616700 -0300
+Change: 2020-12-30 22:28:51.164616700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-moderation.js
+  Size: 7098      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285992     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.314679300 -0300
+Modify: 2020-12-30 22:28:51.165617900 -0300
+Change: 2020-12-30 22:28:51.165617900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-tournaments.js
+  Size: 1765      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285993     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.454977800 -0300
+Modify: 2020-12-30 22:28:51.167615400 -0300
+Change: 2020-12-30 22:28:51.167615400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/feature-youtube.js
+  Size: 516       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285994     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.454977800 -0300
+Modify: 2020-12-30 22:28:51.167615400 -0300
+Change: 2020-12-30 22:28:51.167615400 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/italian/italian-pokemon-trans.js
+  Size: 56653     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285995     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.486253700 -0300
+Modify: 2020-12-30 22:28:51.168615900 -0300
+Change: 2020-12-30 22:28:51.168615900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/README.md
+  Size: 396       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285955     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.920530700 -0300
+Modify: 2020-12-30 22:28:51.129240900 -0300
+Change: 2020-12-30 22:28:51.129240900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/base.js
+  Size: 3090      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285997     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.798544600 -0300
+Modify: 2020-12-30 22:28:51.170833900 -0300
+Change: 2020-12-30 22:28:51.170833900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/chat-plugins.js
+  Size: 4302      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285998     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.814171200 -0300
+Modify: 2020-12-30 22:28:51.171833600 -0300
+Change: 2020-12-30 22:28:51.171833600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-battle.js
+  Size: 3367      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285999     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.845431600 -0300
+Modify: 2020-12-30 22:28:51.171833600 -0300
+Change: 2020-12-30 22:28:51.171833600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-games.js
+  Size: 7925      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286000     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.907937300 -0300
+Modify: 2020-12-30 22:28:51.172833300 -0300
+Change: 2020-12-30 22:28:51.172833300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-groupchats.js
+  Size: 1051      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286001     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.923578600 -0300
+Modify: 2020-12-30 22:28:51.173833500 -0300
+Change: 2020-12-30 22:28:51.173833500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-moderation.js
+  Size: 8157      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286002     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.954837900 -0300
+Modify: 2020-12-30 22:28:51.174833700 -0300
+Change: 2020-12-30 22:28:51.174833700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-tournaments.js
+  Size: 1850      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286003     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.986100600 -0300
+Modify: 2020-12-30 22:28:51.175833300 -0300
+Change: 2020-12-30 22:28:51.175833300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/feature-youtube.js
+  Size: 625       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286004     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.986100600 -0300
+Modify: 2020-12-30 22:28:51.176836500 -0300
+Change: 2020-12-30 22:28:51.176836500 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/languages/spanish/spanish-pokemon-trans.js
+  Size: 56314     	Blocks: 112        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286005     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:49.032988500 -0300
+Modify: 2020-12-30 22:28:51.177834900 -0300
+Change: 2020-12-30 22:28:51.177834900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/LICENSE
+  Size: 1340      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285871     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.042325600 -0300
+Change: 2020-12-30 22:28:51.042325600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/package.json
+  Size: 1581      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285872     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.936160400 -0300
+Modify: 2020-12-30 22:28:51.178833600 -0300
+Change: 2020-12-30 22:28:51.178833600 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/README.md
+  Size: 7767      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285873     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.904901100 -0300
+Modify: 2020-12-30 22:28:51.057950100 -0300
+Change: 2020-12-30 22:28:51.057950100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/settings.js
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285874     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.110842000 -0300
+Modify: 2020-12-30 22:28:51.179833100 -0300
+Change: 2020-12-30 22:28:51.179833100 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/.jscsrc
+  Size: 1150      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286007     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.936160400 -0300
+Modify: 2020-12-30 22:28:51.181783300 -0300
+Change: 2020-12-30 22:28:51.181783300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/mocha.opts
+  Size: 9         	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286008     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-07-02 19:46:40.936160400 -0300
+Modify: 2020-12-30 22:28:51.182781900 -0300
+Change: 2020-12-30 22:28:51.182781900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/test.js
+  Size: 384       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286009     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.298378300 -0300
+Modify: 2020-12-30 22:28:51.182781900 -0300
+Change: 2020-12-30 22:28:51.182781900 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/testfiles/app.js
+  Size: 4183      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286011     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.360908700 -0300
+Modify: 2020-12-30 22:28:51.184591300 -0300
+Change: 2020-12-30 22:28:51.184591300 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/testfiles/commands-integrity.js
+  Size: 2178      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286012     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.376543900 -0300
+Modify: 2020-12-30 22:28:51.185591000 -0300
+Change: 2020-12-30 22:28:51.185591000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/testfiles/features-integrity.js
+  Size: 1685      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286013     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.407807000 -0300
+Modify: 2020-12-30 22:28:51.185591000 -0300
+Change: 2020-12-30 22:28:51.185591000 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/test/testfiles/languages-integrity.js
+  Size: 545       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286014     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.423427700 -0300
+Modify: 2020-12-30 22:28:51.186590700 -0300
+Change: 2020-12-30 22:28:51.186590700 -0300
+ Birth: -  File: ./ps-brasil/Pokemon-Showdown-Node-Bot/tools.js
+  Size: 29206     	Blocks: 64         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1285875     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2021-10-22 11:16:48.204611100 -0300
+Modify: 2020-12-30 22:28:51.187762400 -0300
+Change: 2020-12-30 22:28:51.187762400 -0300
+ Birth: -  File: ./recursive_files_timestamp.sh
+  Size: 1284      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 955338      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-11-14 16:38:01.174322700 -0300
+Modify: 2022-02-21 16:19:46.119392000 -0300
+Change: 2022-11-14 16:37:55.953341400 -0300
+ Birth: -  File: ./runny-car/.git/config
+  Size: 320       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286023     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.795131400 -0300
+Modify: 2020-12-30 22:29:53.462277400 -0300
+Change: 2020-12-30 22:29:53.462277400 -0300
+ Birth: -  File: ./runny-car/.git/description
+  Size: 73        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286024     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.865367300 -0300
+Modify: 2020-12-30 22:29:50.442741200 -0300
+Change: 2020-12-30 22:29:50.442741200 -0300
+ Birth: -  File: ./runny-car/.git/HEAD
+  Size: 23        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286025     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.904495800 -0300
+Modify: 2020-12-30 22:29:53.446642200 -0300
+Change: 2020-12-30 22:29:53.446642200 -0300
+ Birth: -  File: ./runny-car/.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286029     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.067033600 -0300
+Modify: 2020-12-30 22:29:50.444739200 -0300
+Change: 2020-12-30 22:29:50.444739200 -0300
+ Birth: -  File: ./runny-car/.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286030     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.157330700 -0300
+Modify: 2020-12-30 22:29:50.445741800 -0300
+Change: 2020-12-30 22:29:50.445741800 -0300
+ Birth: -  File: ./runny-car/.git/hooks/fsmonitor-watchman.sample
+  Size: 4655      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286031     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.194453300 -0300
+Modify: 2020-12-30 22:29:50.446740500 -0300
+Change: 2020-12-30 22:29:50.446740500 -0300
+ Birth: -  File: ./runny-car/.git/hooks/post-update.sample
+  Size: 189       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286032     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.215523100 -0300
+Modify: 2020-12-30 22:29:50.447740300 -0300
+Change: 2020-12-30 22:29:50.447740300 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286033     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.289770500 -0300
+Modify: 2020-12-30 22:29:50.448740500 -0300
+Change: 2020-12-30 22:29:50.448740500 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286034     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.394114500 -0300
+Modify: 2020-12-30 22:29:50.449740300 -0300
+Change: 2020-12-30 22:29:50.449740300 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286035     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.421205700 -0300
+Modify: 2020-12-30 22:29:50.451740600 -0300
+Change: 2020-12-30 22:29:50.451740600 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-push.sample
+  Size: 1374      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286036     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.541603400 -0300
+Modify: 2020-12-30 22:29:50.452739900 -0300
+Change: 2020-12-30 22:29:50.452739900 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-rebase.sample
+  Size: 4898      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286037     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.595782000 -0300
+Modify: 2020-12-30 22:29:50.453742400 -0300
+Change: 2020-12-30 22:29:50.453742400 -0300
+ Birth: -  File: ./runny-car/.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286038     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.616851600 -0300
+Modify: 2020-12-30 22:29:50.454741600 -0300
+Change: 2020-12-30 22:29:50.454741600 -0300
+ Birth: -  File: ./runny-car/.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286039     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.717856100 -0300
+Modify: 2020-12-30 22:29:50.455740700 -0300
+Change: 2020-12-30 22:29:50.455740700 -0300
+ Birth: -  File: ./runny-car/.git/hooks/update.sample
+  Size: 3650      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286040     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.758319900 -0300
+Modify: 2020-12-30 22:29:50.456741200 -0300
+Change: 2020-12-30 22:29:50.456741200 -0300
+ Birth: -  File: ./runny-car/.git/index
+  Size: 13144     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286026     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.979744300 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/.git/info/exclude
+  Size: 240       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286042     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.781397200 -0300
+Modify: 2020-12-30 22:29:50.458748200 -0300
+Change: 2020-12-30 22:29:50.458748200 -0300
+ Birth: -  File: ./runny-car/.git/logs/HEAD
+  Size: 203       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286044     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.863669600 -0300
+Modify: 2020-12-30 22:29:53.462277400 -0300
+Change: 2020-12-30 22:29:53.462277400 -0300
+ Birth: -  File: ./runny-car/.git/logs/refs/heads/master
+  Size: 203       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286047     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:52.933901300 -0300
+Modify: 2020-12-30 22:29:53.462277400 -0300
+Change: 2020-12-30 22:29:53.462277400 -0300
+ Birth: -  File: ./runny-car/.git/logs/refs/remotes/origin/HEAD
+  Size: 203       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286050     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.006139900 -0300
+Modify: 2020-12-30 22:29:53.446642200 -0300
+Change: 2020-12-30 22:29:53.446642200 -0300
+ Birth: -  File: ./runny-car/.git/objects/pack/pack-bedf136d3ca3102508113babd12bc15331afb93f.idx
+  Size: 20056     	Blocks: 40         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286054     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.125533400 -0300
+Modify: 2020-12-30 22:29:53.382464000 -0300
+Change: 2020-12-30 22:29:53.401937500 -0300
+ Birth: -  File: ./runny-car/.git/objects/pack/pack-bedf136d3ca3102508113babd12bc15331afb93f.pack
+  Size: 610185    	Blocks: 1192       IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286055     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.190749500 -0300
+Modify: 2020-12-30 22:29:53.382464000 -0300
+Change: 2020-12-30 22:29:53.400938100 -0300
+ Birth: -  File: ./runny-car/.git/packed-refs
+  Size: 114       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286027     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.988774800 -0300
+Modify: 2020-12-30 22:29:53.434632300 -0300
+Change: 2020-12-30 22:29:53.434632300 -0300
+ Birth: -  File: ./runny-car/.git/refs/heads/master
+  Size: 41        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286058     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.216836100 -0300
+Modify: 2020-12-30 22:29:53.462277400 -0300
+Change: 2020-12-30 22:29:53.462277400 -0300
+ Birth: -  File: ./runny-car/.git/refs/remotes/origin/HEAD
+  Size: 32        	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286061     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.323189000 -0300
+Modify: 2020-12-30 22:29:53.446642200 -0300
+Change: 2020-12-30 22:29:53.446642200 -0300
+ Birth: -  File: ./runny-car/.gitattributes
+  Size: 505       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286016     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.444973400 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/.gitignore
+  Size: 629       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286017     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.524235200 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/Animations/1pt/Default/000.png
+  Size: 425       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286066     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.402451400 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/Animations/2pt/Default/000.png
+  Size: 425       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286069     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.466663500 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/Animations/A/Default/000.png
+  Size: 604       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286072     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.526865900 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/Animations/About/Default/#00.PNG
+  Size: 917       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286075     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.629202400 -0300
+Modify: 2020-12-30 22:29:53.477907000 -0300
+Change: 2020-12-30 22:29:53.477907000 -0300
+ Birth: -  File: ./runny-car/Animations/About/Default/000.png
+  Size: 917       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286076     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.658295300 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/arrowleft/Default/#00.PNG
+  Size: 2580      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286079     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.704449600 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/arrowleft/Default/000.png
+  Size: 2580      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286080     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.719499900 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/Car/Default/#00.PNG
+  Size: 685       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286083     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.741571000 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/Car/Default/000.png
+  Size: 685       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286084     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.804783300 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/drive/Default/000.png
+  Size: 2249      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286087     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.904111200 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/fbtn/Default/000.png
+  Size: 867       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286090     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.954275600 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/flag/br/000.png
+  Size: 834       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286093     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:53.993405100 -0300
+Modify: 2020-12-30 22:29:53.534809100 -0300
+Change: 2020-12-30 22:29:53.534809100 -0300
+ Birth: -  File: ./runny-car/Animations/flag/de/000.png
+  Size: 620       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286095     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.009457500 -0300
+Modify: 2020-12-30 22:29:53.534809100 -0300
+Change: 2020-12-30 22:29:53.534809100 -0300
+ Birth: -  File: ./runny-car/Animations/flag/en/000.png
+  Size: 3642      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286097     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.109789200 -0300
+Modify: 2020-12-30 22:29:53.534809100 -0300
+Change: 2020-12-30 22:29:53.534809100 -0300
+ Birth: -  File: ./runny-car/Animations/flag/es/000.png
+  Size: 627       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286099     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.127851300 -0300
+Modify: 2020-12-30 22:29:53.534809100 -0300
+Change: 2020-12-30 22:29:53.534809100 -0300
+ Birth: -  File: ./runny-car/Animations/flag/fr/000.png
+  Size: 389       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286101     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.202097900 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Animations/flag/it/000.png
+  Size: 294       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286103     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.263301000 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Animations/flag/jp/000.png
+  Size: 489       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286105     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.321491300 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Animations/flag/kr/000.png
+  Size: 844       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286107     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.419818300 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Animations/flag/PT/000.PNG
+  Size: 834       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286109     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.453932600 -0300
+Modify: 2020-12-30 22:29:53.534809100 -0300
+Change: 2020-12-30 22:29:53.534809100 -0300
+ Birth: -  File: ./runny-car/Animations/G/Default/000.png
+  Size: 618       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286112     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.494063900 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/G/Default/001.png
+  Size: 618       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286113     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.564295200 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/G/Guttye/000.png
+  Size: 545       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286115     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.841211700 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/GameOver/Default/#00.PNG
+  Size: 5747      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286118     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.967629300 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/GameOver/Default/000.png
+  Size: 5747      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286119     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:54.996724500 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/L/Default/000.png
+  Size: 513       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286122     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.038864400 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/M/Default/000.png
+  Size: 602       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286125     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.155250500 -0300
+Modify: 2020-12-30 22:29:53.493538000 -0300
+Change: 2020-12-30 22:29:53.493538000 -0300
+ Birth: -  File: ./runny-car/Animations/outline/Default/000.png
+  Size: 184       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286128     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.235516100 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Animations/Pipe/Default/#00.PNG
+  Size: 666       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286131     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.304743600 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Pipe/Default/000.png
+  Size: 666       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286132     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.350898200 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Play/Default/#00.PNG
+  Size: 435       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286135     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.407083200 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Play/Default/000.png
+  Size: 435       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286136     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.460257500 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/PS/Default/000.png
+  Size: 608       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286139     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.527483000 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/R/Default/000.png
+  Size: 533       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286142     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.599723300 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Rank/Default/#00.PNG
+  Size: 450       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286145     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.666946000 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Rank/Default/000.png
+  Size: 450       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286146     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.713095800 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Ranking/Default/#00.PNG
+  Size: 570       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286149     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.769281100 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Ranking/Default/000.png
+  Size: 570       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286150     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.823461900 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/Rate/Default/#00.PNG
+  Size: 1522      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286153     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.947872900 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/Rate/Default/000.png
+  Size: 1522      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286154     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:55.979979000 -0300
+Modify: 2020-12-30 22:29:53.524797500 -0300
+Change: 2020-12-30 22:29:53.524797500 -0300
+ Birth: -  File: ./runny-car/Animations/RC/Default/000.png
+  Size: 13583     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286157     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.013088800 -0300
+Modify: 2020-12-30 22:29:53.509167100 -0300
+Change: 2020-12-30 22:29:53.509167100 -0300
+ Birth: -  File: ./runny-car/Animations/start/Default/000.png
+  Size: 2108      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286160     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.059241500 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/debug.log
+  Size: 169       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286018     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.583431000 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Event sheets/About sheet.uistate.xml
+  Size: 793       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286162     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.098370800 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/About sheet.xml
+  Size: 5025      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286163     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.139509100 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Common in-game sheet.uistate.xml
+  Size: 976       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286164     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.177631600 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Common in-game sheet.xml
+  Size: 22768     	Blocks: 48         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286165     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.225794700 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Common sheet.uistate.xml
+  Size: 943       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286166     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.269939400 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Common sheet.xml
+  Size: 6395      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286167     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.314084500 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Creators sheet.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286168     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.357228800 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Creators sheet.xml
+  Size: 1652      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286169     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.402378000 -0300
+Modify: 2020-12-30 22:29:53.540819400 -0300
+Change: 2020-12-30 22:29:53.540819400 -0300
+ Birth: -  File: ./runny-car/Event sheets/Demo sheet.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286170     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.437492700 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Demo sheet.xml
+  Size: 226       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286171     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.458563200 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Event sheet 10.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286172     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.581971900 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Event sheet 10.xml
+  Size: 812       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286173     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.622106700 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Event sheet 11.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286174     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.646182800 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Event sheet 11.xml
+  Size: 292       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286175     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.670264800 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/How sheet.uistate.xml
+  Size: 844       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286176     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.783118700 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/How sheet.xml
+  Size: 2701      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286177     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.894486500 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Logo sheet.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286178     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.924587200 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Logo sheet.xml
+  Size: 8792      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286179     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:56.968731600 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Settings sheet.uistate.xml
+  Size: 862       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286180     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.012881500 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Settings sheet.xml
+  Size: 8061      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286181     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.047993900 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Start sheet.uistate.xml
+  Size: 843       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286182     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.072075900 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Event sheets/Start sheet.xml
+  Size: 5682      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286183     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.111204200 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/#CON-114.PNG
+  Size: 25223     	Blocks: 56         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286185     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.144311500 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/#CON-128.PNG
+  Size: 33382     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286186     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.176417600 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/#CON-16.PNG
+  Size: 1041      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286187     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.206519600 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/#CON-256.PNG
+  Size: 98347     	Blocks: 200        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286188     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.238626500 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/#CON-32.PNG
+  Size: 2967      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286189     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.263708500 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/Beat.m4a
+  Size: 6390      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286190     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.305847600 -0300
+Modify: 2020-12-30 22:29:53.556450500 -0300
+Change: 2020-12-30 22:29:53.556450500 -0300
+ Birth: -  File: ./runny-car/Files/Beat.ogg
+  Size: 10539     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286191     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.352001500 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Creators.m4a
+  Size: 17307     	Blocks: 40         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286192     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.372067100 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Creators.ogg
+  Size: 21144     	Blocks: 48         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286193     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.391131100 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Gamlr.m4a
+  Size: 15090     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286194     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.409188800 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Gamlr.ogg
+  Size: 17575     	Blocks: 40         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286195     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.441296600 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Gamlr_G.m4a
+  Size: 7108      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286196     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.456345300 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Gamlr_G.ogg
+  Size: 12647     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286197     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.487450300 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/icon-114.png
+  Size: 25223     	Blocks: 56         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286198     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.508517800 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/icon-128.png
+  Size: 33382     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286199     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.531593300 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/icon-16.png
+  Size: 1041      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286200     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.610858300 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/icon-256.png
+  Size: 98347     	Blocks: 200        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286201     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.627913900 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/icon-32.png
+  Size: 2967      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286202     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.659014500 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/loading-logo.png
+  Size: 9375      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286203     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.685101100 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/PressStart2P.ttf
+  Size: 82480     	Blocks: 168        IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286204     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.733265100 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/strings.br.xml
+  Size: 516       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286205     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.757340600 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.de.xml
+  Size: 440       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286206     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.850650400 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.en-US.xml
+  Size: 495       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286207     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.923891900 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.en.xml
+  Size: 495       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286208     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:57.983088600 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.es.xml
+  Size: 436       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286209     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.055327300 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.fr.xml
+  Size: 451       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286210     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.126563300 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.it.xml
+  Size: 420       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286211     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.189771900 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.jp.xml
+  Size: 484       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286212     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.249974100 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.kr.xml
+  Size: 447       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286213     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.325222800 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/strings.pt.xml
+  Size: 516       	Blocks: 2          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286214     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.381406000 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Files/Touch.m4a
+  Size: 1451      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286215     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.476722600 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Files/Touch.ogg
+  Size: 5202      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286216     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.516855600 -0300
+Modify: 2020-12-30 22:29:53.572080600 -0300
+Change: 2020-12-30 22:29:53.572080600 -0300
+ Birth: -  File: ./runny-car/Layouts/About.uistate.xml
+  Size: 1290      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286218     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.571037500 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/About.xml
+  Size: 12273     	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286219     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.593106000 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Creators.uistate.xml
+  Size: 1288      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286220     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.626218400 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Creators.xml
+  Size: 6367      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286221     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.662336900 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Demo.uistate.xml
+  Size: 1274      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286222     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.708491500 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Demo.xml
+  Size: 1163      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286223     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.753637700 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/How.uistate.xml
+  Size: 1282      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286224     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.782737200 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/How.xml
+  Size: 9471      	Blocks: 24         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286225     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.813838500 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Layout 10.uistate.xml
+  Size: 1354      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286226     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.850959600 -0300
+Modify: 2020-12-30 22:29:53.587711500 -0300
+Change: 2020-12-30 22:29:53.587711500 -0300
+ Birth: -  File: ./runny-car/Layouts/Layout 10.xml
+  Size: 31861     	Blocks: 64         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286227     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.890089400 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Layout 11.uistate.xml
+  Size: 1370      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286228     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.924202600 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Layout 11.xml
+  Size: 30429     	Blocks: 64         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286229     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:58.961325000 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Logo.uistate.xml
+  Size: 1290      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286230     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.003466400 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Logo.xml
+  Size: 7139      	Blocks: 16         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286231     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.048612800 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Settings.uistate.xml
+  Size: 1282      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286232     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.092761600 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Settings.xml
+  Size: 15092     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286233     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.136911900 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Start.uistate.xml
+  Size: 1362      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286234     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.166004000 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Layouts/Start.xml
+  Size: 14494     	Blocks: 32         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286235     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.207139000 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Runny Car.caproj
+  Size: 36343     	Blocks: 72         IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286019     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.697810000 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Runny Car.uistate.xml
+  Size: 3104      	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286020     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.739949200 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Textures/TiledBackground.png
+  Size: 120       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286237     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.223191500 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/Textures/TiledBackground2.png
+  Size: 120       	Blocks: 1          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286238     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:59.294429100 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -  File: ./runny-car/todo.txt
+  Size: 885       	Blocks: 8          IO Block: 4096   regular file
+Device: 844h/2116d	Inode: 1286021     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-02-27 19:09:51.778075400 -0300
+Modify: 2020-12-30 22:29:53.603340300 -0300
+Change: 2020-12-30 22:29:53.603340300 -0300
+ Birth: -
